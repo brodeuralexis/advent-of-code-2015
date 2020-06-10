@@ -6,6 +6,7 @@ alias Advent2015.{
   Day05,
   Day06,
   Day07,
+  Day08,
 }
 
 import Day01, only: [day01: 0]
@@ -15,3 +16,4 @@ import Day04, only: [day04: 0]
 import Day05, only: [day05: 0]
 import Day06, only: [day06: 0]
 import Day07, only: [day07: 0]
+import Day08, only: [day08: 0]
