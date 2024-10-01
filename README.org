@@ -1,0 +1,2 @@
+#+TITLE: Advent of Code 2015
+#+AUTHOR: Alexis Brodeur <brodeuralexis@gmail.com>
